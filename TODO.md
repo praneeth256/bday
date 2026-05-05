@@ -1,14 +1,1 @@
-# Image Updates - FINAL ✅
-
-**Corrections Applied (per feedback):**
-- Niece photos (hero & section): `Untitled.png`
-- Venue image: `Namasvi.jpg`
-
-## Status
-- Hero photo: Untitled.png
-- Niece section: Untitled.png
-- Venue: Namasvi.jpg
-
-**Complete!** 🎉
-
-**Test:** `start birthday-invitation.html`
+# GitHub Upload - Upload to main\n\n1. [ ] Create TODO.md with steps ✅\n2. [ ] Stage all changes: git add -A\n3. [ ] Commit changes\n4. [ ] Push to origin main: git push origin main\n5. [ ] Verify on GitHub\n6. [ ] Mark complete & attempt_completion
